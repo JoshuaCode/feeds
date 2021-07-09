@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://JoshuaCode.github.io/feeds/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2021-07-09T12:13:37.069Z</updated>
+    <id>https://mitsloan.mit.edu/ideas-made-to-matter/artificial-intelligence</id>
+    <title>Ideas and insight about artificial intelligence from MIT Sloan</title>
+    <updated>2021-07-09T12:13:37.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://mitsloan.mit.edu/favicon-32x32.png</icon>
     <entry>
-        <title type="html"><![CDATA[Digital transformation ideas from MIT Sloan researchers (Ideas and insight about artificial intelligence from MIT Sloan)]]></title>
+        <title type="html"><![CDATA[Digital transformation ideas from MIT Sloan researchers]]></title>
         <id>https://mitsloan.mit.edu/ideas-made-to-matter/4-digital-transformation-insights-mit-sloan-management-review</id>
         <link href="https://mitsloan.mit.edu/ideas-made-to-matter/4-digital-transformation-insights-mit-sloan-management-review"/>
         <updated>2021-07-09T12:13:36.937Z</updated>
@@ -40,9 +41,9 @@
             <div class="linkout-icon"></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (Ideas and insight about artificial intelligence from MIT Sloan)]]></title>
-        <id>https://JoshuaCode.github.io/feeds/all.xml</id>
-        <link href="https://JoshuaCode.github.io/feeds/all.xml"/>
+        <title type="html"><![CDATA[1]]></title>
+        <id>https://mitsloan.mit.edu/ideas-made-to-matter/artificial-intelligence</id>
+        <link href="https://mitsloan.mit.edu/ideas-made-to-matter/artificial-intelligence"/>
         <updated>2021-07-09T12:13:36.860Z</updated>
         <content type="html"><![CDATA[<p class="search-result--description">  How to create an "automation center of excellence" and develop capabilities for success after the pandemic.
 </p>
@@ -54,7 +55,7 @@
                 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Real-world use cases for artificial intelligence (Ideas and insight about artificial intelligence from MIT Sloan)]]></title>
+        <title type="html"><![CDATA[Real-world use cases for artificial intelligence]]></title>
         <id>https://mitsloan.mit.edu/ideas-made-to-matter/how-big-firms-leverage-artificial-intelligence-competitive-advantage</id>
         <link href="https://mitsloan.mit.edu/ideas-made-to-matter/how-big-firms-leverage-artificial-intelligence-competitive-advantage"/>
         <updated>2021-07-09T12:13:36.937Z</updated>
@@ -89,9 +90,9 @@
             <div class="linkout-icon"></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (Ideas and insight about artificial intelligence from MIT Sloan)]]></title>
-        <id>https://JoshuaCode.github.io/feeds/all.xml</id>
-        <link href="https://JoshuaCode.github.io/feeds/all.xml"/>
+        <title type="html"><![CDATA[3]]></title>
+        <id>https://mitsloan.mit.edu/ideas-made-to-matter/artificial-intelligence</id>
+        <link href="https://mitsloan.mit.edu/ideas-made-to-matter/artificial-intelligence"/>
         <updated>2021-07-09T12:13:36.860Z</updated>
         <content type="html"><![CDATA[<p class="search-result--description">  Siemens, Mastercard, and John Deere combine big data with machine learning to improve the customer experience and reduce fraud.
 </p>
@@ -103,7 +104,7 @@
                 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The hidden work created by artificial intelligence programs (Ideas and insight about artificial intelligence from MIT Sloan)]]></title>
+        <title type="html"><![CDATA[The hidden work created by artificial intelligence programs]]></title>
         <id>https://mitsloan.mit.edu/ideas-made-to-matter/hidden-work-created-artificial-intelligence-programs</id>
         <link href="https://mitsloan.mit.edu/ideas-made-to-matter/hidden-work-created-artificial-intelligence-programs"/>
         <updated>2021-07-09T12:13:36.937Z</updated>
@@ -138,9 +139,9 @@
             <div class="linkout-icon"></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (Ideas and insight about artificial intelligence from MIT Sloan)]]></title>
-        <id>https://JoshuaCode.github.io/feeds/all.xml</id>
-        <link href="https://JoshuaCode.github.io/feeds/all.xml"/>
+        <title type="html"><![CDATA[5]]></title>
+        <id>https://mitsloan.mit.edu/ideas-made-to-matter/artificial-intelligence</id>
+        <link href="https://mitsloan.mit.edu/ideas-made-to-matter/artificial-intelligence"/>
         <updated>2021-07-09T12:13:36.869Z</updated>
         <content type="html"><![CDATA[<p class="search-result--description">  Successful and ethical artificial intelligence programs take into account behind-the-scenes ‘repair work’ and ‘ghost workers.’   
 </p>
@@ -152,7 +153,7 @@
                 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Machine learning, explained (Ideas and insight about artificial intelligence from MIT Sloan)]]></title>
+        <title type="html"><![CDATA[Machine learning, explained]]></title>
         <id>https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained</id>
         <link href="https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained"/>
         <updated>2021-07-09T12:13:36.937Z</updated>
@@ -187,9 +188,9 @@
             <div class="linkout-icon"></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (Ideas and insight about artificial intelligence from MIT Sloan)]]></title>
-        <id>https://JoshuaCode.github.io/feeds/all.xml</id>
-        <link href="https://JoshuaCode.github.io/feeds/all.xml"/>
+        <title type="html"><![CDATA[7]]></title>
+        <id>https://mitsloan.mit.edu/ideas-made-to-matter/artificial-intelligence</id>
+        <link href="https://mitsloan.mit.edu/ideas-made-to-matter/artificial-intelligence"/>
         <updated>2021-07-09T12:13:36.869Z</updated>
         <content type="html"><![CDATA[<p class="search-result--description">  Machine learning is a powerful form of artificial intelligence that is affecting every industry. Here’s what you need to know about its potential and limitations and how it’s being used. 
 </p>
@@ -201,7 +202,7 @@
                 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A ‘break from chaos’ lets this CEO find his best ideas (Ideas and insight about artificial intelligence from MIT Sloan)]]></title>
+        <title type="html"><![CDATA[A ‘break from chaos’ lets this CEO find his best ideas]]></title>
         <id>https://mitsloan.mit.edu/ideas-made-to-matter/a-break-chaos-lets-ceo-find-his-best-ideas</id>
         <link href="https://mitsloan.mit.edu/ideas-made-to-matter/a-break-chaos-lets-ceo-find-his-best-ideas"/>
         <updated>2021-07-09T12:13:36.937Z</updated>
@@ -236,9 +237,9 @@
             <div class="linkout-icon"></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (Ideas and insight about artificial intelligence from MIT Sloan)]]></title>
-        <id>https://JoshuaCode.github.io/feeds/all.xml</id>
-        <link href="https://JoshuaCode.github.io/feeds/all.xml"/>
+        <title type="html"><![CDATA[9]]></title>
+        <id>https://mitsloan.mit.edu/ideas-made-to-matter/artificial-intelligence</id>
+        <link href="https://mitsloan.mit.edu/ideas-made-to-matter/artificial-intelligence"/>
         <updated>2021-07-09T12:13:36.869Z</updated>
         <content type="html"><![CDATA[<p class="search-result--description">  When testing ideas, Remus Capital’s Krishna Gupta errs on the side of action. But if his excitement lags in the face of resistance, he moves on.
 </p>
@@ -250,7 +251,7 @@
                 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[7 lessons for successful machine learning projects (Ideas and insight about artificial intelligence from MIT Sloan)]]></title>
+        <title type="html"><![CDATA[7 lessons for successful machine learning projects]]></title>
         <id>https://mitsloan.mit.edu/ideas-made-to-matter/7-lessons-to-ensure-successful-machine-learning-projects</id>
         <link href="https://mitsloan.mit.edu/ideas-made-to-matter/7-lessons-to-ensure-successful-machine-learning-projects"/>
         <updated>2021-07-09T12:13:36.937Z</updated>
@@ -285,9 +286,9 @@
             <div class="linkout-icon"></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (Ideas and insight about artificial intelligence from MIT Sloan)]]></title>
-        <id>https://JoshuaCode.github.io/feeds/all.xml</id>
-        <link href="https://JoshuaCode.github.io/feeds/all.xml"/>
+        <title type="html"><![CDATA[11]]></title>
+        <id>https://mitsloan.mit.edu/ideas-made-to-matter/artificial-intelligence</id>
+        <link href="https://mitsloan.mit.edu/ideas-made-to-matter/artificial-intelligence"/>
         <updated>2021-07-09T12:13:36.872Z</updated>
         <content type="html"><![CDATA[<p class="search-result--description">  Machine learning success starts with a strong data strategy, the right business use cases, and patience. 
 </p>
@@ -299,7 +300,7 @@
                 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Digital leadership ideas from MIT Sloan researchers (Ideas and insight about artificial intelligence from MIT Sloan)]]></title>
+        <title type="html"><![CDATA[Digital leadership ideas from MIT Sloan researchers]]></title>
         <id>https://mitsloan.mit.edu/ideas-made-to-matter/5-insights-digital-leadership-mit-sloan-management-review</id>
         <link href="https://mitsloan.mit.edu/ideas-made-to-matter/5-insights-digital-leadership-mit-sloan-management-review"/>
         <updated>2021-07-09T12:13:36.937Z</updated>
@@ -334,9 +335,9 @@
             <div class="linkout-icon"></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (Ideas and insight about artificial intelligence from MIT Sloan)]]></title>
-        <id>https://JoshuaCode.github.io/feeds/all.xml</id>
-        <link href="https://JoshuaCode.github.io/feeds/all.xml"/>
+        <title type="html"><![CDATA[13]]></title>
+        <id>https://mitsloan.mit.edu/ideas-made-to-matter/artificial-intelligence</id>
+        <link href="https://mitsloan.mit.edu/ideas-made-to-matter/artificial-intelligence"/>
         <updated>2021-07-09T12:13:36.876Z</updated>
         <content type="html"><![CDATA[<p class="search-result--description">  The post-pandemic world will reward leaders who navigate a new landscape of digital services to make decisions and encourage innovation.
 </p>
@@ -348,7 +349,7 @@
                 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Countering violent extremism with data and dedication (Ideas and insight about artificial intelligence from MIT Sloan)]]></title>
+        <title type="html"><![CDATA[Countering violent extremism with data and dedication]]></title>
         <id>https://mitsloan.mit.edu/ideas-made-to-matter/countering-violent-extremism-data-and-dedication</id>
         <link href="https://mitsloan.mit.edu/ideas-made-to-matter/countering-violent-extremism-data-and-dedication"/>
         <updated>2021-07-09T12:13:36.937Z</updated>
@@ -383,9 +384,9 @@
             <div class="linkout-icon"></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (Ideas and insight about artificial intelligence from MIT Sloan)]]></title>
-        <id>https://JoshuaCode.github.io/feeds/all.xml</id>
-        <link href="https://JoshuaCode.github.io/feeds/all.xml"/>
+        <title type="html"><![CDATA[15]]></title>
+        <id>https://mitsloan.mit.edu/ideas-made-to-matter/artificial-intelligence</id>
+        <link href="https://mitsloan.mit.edu/ideas-made-to-matter/artificial-intelligence"/>
         <updated>2021-07-09T12:13:36.881Z</updated>
         <content type="html"><![CDATA[<p class="search-result--description">  Counterterrorism expert Humera Khan harnesses diverse perspectives to anticipate and prevent violent extremism via her think tank, Muflehun.
 </p>
@@ -397,7 +398,7 @@
                 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[15 quotes to help boost your data and analytics savvy (Ideas and insight about artificial intelligence from MIT Sloan)]]></title>
+        <title type="html"><![CDATA[15 quotes to help boost your data and analytics savvy]]></title>
         <id>https://mitsloan.mit.edu/ideas-made-to-matter/15-quotes-and-stats-to-help-boost-your-data-and-analytics-savvy</id>
         <link href="https://mitsloan.mit.edu/ideas-made-to-matter/15-quotes-and-stats-to-help-boost-your-data-and-analytics-savvy"/>
         <updated>2021-07-09T12:13:36.938Z</updated>
@@ -432,9 +433,9 @@
             <div class="linkout-icon"></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (Ideas and insight about artificial intelligence from MIT Sloan)]]></title>
-        <id>https://JoshuaCode.github.io/feeds/all.xml</id>
-        <link href="https://JoshuaCode.github.io/feeds/all.xml"/>
+        <title type="html"><![CDATA[17]]></title>
+        <id>https://mitsloan.mit.edu/ideas-made-to-matter/artificial-intelligence</id>
+        <link href="https://mitsloan.mit.edu/ideas-made-to-matter/artificial-intelligence"/>
         <updated>2021-07-09T12:13:36.885Z</updated>
         <content type="html"><![CDATA[<p class="search-result--description">  Unstructured data, artificial intelligence, and machine learning are fast becoming business requirements. Here is insight from data scientists and practitioners.
 </p>
@@ -446,7 +447,7 @@
                 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2 from MIT Sloan make Thinkers50 Radar list (Ideas and insight about artificial intelligence from MIT Sloan)]]></title>
+        <title type="html"><![CDATA[2 from MIT Sloan make Thinkers50 Radar list]]></title>
         <id>https://mitsloan.mit.edu/ideas-made-to-matter/2-mit-sloan-make-thinkers50-radar-list</id>
         <link href="https://mitsloan.mit.edu/ideas-made-to-matter/2-mit-sloan-make-thinkers50-radar-list"/>
         <updated>2021-07-09T12:13:36.941Z</updated>
@@ -481,9 +482,9 @@
             <div class="linkout-icon"></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (Ideas and insight about artificial intelligence from MIT Sloan)]]></title>
-        <id>https://JoshuaCode.github.io/feeds/all.xml</id>
-        <link href="https://JoshuaCode.github.io/feeds/all.xml"/>
+        <title type="html"><![CDATA[19]]></title>
+        <id>https://mitsloan.mit.edu/ideas-made-to-matter/artificial-intelligence</id>
+        <link href="https://mitsloan.mit.edu/ideas-made-to-matter/artificial-intelligence"/>
         <updated>2021-07-09T12:13:36.885Z</updated>
         <content type="html"><![CDATA[<p class="search-result--description">  Researchers explore working with intelligent machines and what happens when culture meets globalization.
 </p>
